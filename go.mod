@@ -1,6 +1,6 @@
 module github.com/easyops-cn/minio-disk
 
-go 1.15
+go 1.19
 
 require (
 	github.com/ncw/directio v1.0.5
